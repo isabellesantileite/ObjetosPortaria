@@ -1,4 +1,4 @@
-/*Crie um programa Java contendo, entre outras, uma classe que descreve um documento denominado portaria
+/* Crie um programa Java contendo, entre outras, uma classe que descreve um documento denominado portaria
  * com os seguintes atributos:
  * emissor String(nome do órgão que publica portaria)
  * numero Ineger-inteiro
